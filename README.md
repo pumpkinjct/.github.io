@@ -1,2 +1,2 @@
-# .github.io
-Pumpkin Junction 
+# pumpkinjct.github.io
+## Pumpkin Junction
